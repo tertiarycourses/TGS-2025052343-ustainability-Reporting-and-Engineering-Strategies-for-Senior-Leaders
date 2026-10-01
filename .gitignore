@@ -1,0 +1,31 @@
+# Private course records and publication configuration
+.env
+.env.*
+.claude/
+.codex/
+assessment/
+reference/
+trainer-only/
+private/
+# Builds and QA evidence
+build/
+qa/
+output/
+tmp/
+courseware/archive/
+courseware/assets/
+**/__pycache__/
+**/.DS_Store
+~$*
+*.log
+build_*.py
+fix_*.py
+courseware/SOURCE-COVERAGE.md
+courseware/QA*
+courseware/*MANIFEST*
+courseware/*inventory*
+courseware/*.tmp
+courseware/FG-*
+courseware/AP-*
+courseware/SLIDE-ANCHOR-INVENTORY*
+/archive/
