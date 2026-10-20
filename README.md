@@ -10,7 +10,7 @@ Evaluate sustainable engineering options, develop ESG strategies and prepare evi
 | Skills framework | Sustainable Engineering — `EGS-EPM-6065-1.1` |
 | Duration | 2 days; 16 total hours (14 training + 2 assessment) |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-sustainability-reporting-and-engineering-strategies-for-senior-leaders.html) |
-| Funding | Up to 70% for eligible learners. Eligibility and terms apply; check the registration page. |
+| Funding | Up to 50% SkillsFuture course fee funding, or up to 70% for eligible SME employees and Singapore Citizens aged 40 and above. Eligibility and terms apply; check the registration page. |
 
 ## About the course
 

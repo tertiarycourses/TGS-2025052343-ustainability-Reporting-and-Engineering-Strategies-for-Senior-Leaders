@@ -29,3 +29,10 @@ courseware/FG-*
 courseware/AP-*
 courseware/SLIDE-ANCHOR-INVENTORY*
 /archive/
+
+# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub
+**/FG_*
+**/FG-*
+**/Assessment_Plan_*
+**/AP-*
